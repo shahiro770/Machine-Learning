@@ -3,6 +3,7 @@ Just a collection of things I'm using to learn machine learning or found kinda i
 
 ## Index
 DRL - Deep Reinforcement Learning
+TL - Transfer Learning
 
 ## Online
  - http://cs229.stanford.edu/syllabus.html
@@ -14,9 +15,11 @@ DRL - Deep Reinforcement Learning
  - http://neuralnetworksanddeeplearning.com/chap1.html
  - http://themlbook.com/wiki/doku.php
  - http://www.springer.com/gp/book/9781852333430
+ - http://www.deeplearningbook.org/
 
 ## Research
  - http://www.icml-2011.org/papers/532_icmlpaper.pdf
  - https://arxiv.org/abs/cond-mat/0510169
  - https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf (DRL)
      - Deepmind's DQN paper on deep reinforcement learning
+ - https://arxiv.org/pdf/1701.08734.pdf (TL)
