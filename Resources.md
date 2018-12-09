@@ -2,7 +2,7 @@
 Just a collection of things I'm using to learn machine learning or found kinda interesting or just want to check out.
 
 ## Index
-DRL - Deep Reinforcement Learning
+DRL - Deep Reinforcement Learning  
 TL - Transfer Learning
 
 ## Online
