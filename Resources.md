@@ -18,8 +18,14 @@ TL - Transfer Learning
  - http://www.deeplearningbook.org/
 
 ## Research
- - http://www.icml-2011.org/papers/532_icmlpaper.pdf
- - https://arxiv.org/abs/cond-mat/0510169
- - https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf (DRL)
+ - Learning Recurrent Neural Networks with Hessian-Free Optimization
+     - http://www.icml-2011.org/papers/532_icmlpaper.pdf
+ - Theory of Recurrent Neural Network with Common Synaptic Inputs
+     - https://arxiv.org/abs/cond-mat/0510169
+ - Human-level control through deep reinforcement learning
+     - https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf (DRL)
      - Deepmind's DQN paper on deep reinforcement learning
- - https://arxiv.org/pdf/1701.08734.pdf (TL)
+ -  Evolution Channels Gradient Descent in Super Neural Networks
+     - https://arxiv.org/pdf/1701.08734.pdf (TL)
+ - Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts
+     - https://anthology.aclweb.org/C/C14/C14-1008.pdf
