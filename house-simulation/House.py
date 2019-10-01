@@ -26,3 +26,11 @@ class House:
     def render(self, house_origin):
         for room in self.rooms:
             room.render(house_origin)  # TODO: Rooms can't all have the same origin
+
+class DuplicateHouse:
+     def __init__(self, rooms):
+        self.rooms = rooms
+
+     def render(self, house_origin):
+        for room in self.rooms:
+            room.render(house_origin)  # TODO: Rooms can't all have the same origin
